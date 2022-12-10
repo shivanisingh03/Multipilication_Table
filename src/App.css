@@ -1,0 +1,12 @@
+#main{
+  width: 20vw;
+  height: 80vh;
+  margin: auto;
+  border: 2px solid black;
+  background: linear-gradient(to right,#f64f59,#c471ed,#12c2e9);
+
+}
+
+button:hover{
+  background-color: blue;
+}
